@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OnlinePay</string>
+    <string name="title_home">Dashboard</string>
+    <string name="title_dashboard">Deposit</string>
+    <string name="title_notifications">Send</string>
+    <string name="title_with">Withdraw</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
